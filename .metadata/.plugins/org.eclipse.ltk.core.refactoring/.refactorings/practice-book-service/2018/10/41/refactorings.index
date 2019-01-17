@@ -1,0 +1,9 @@
+1539365705908	Rename field 'id'
+1539365718767	Rename local variable 'id'
+1539418848181	Rename type 'BookException'
+1539419108268	Rename type 'BookExceptionResponse'
+1539419429730	Copy compilation unit
+1539419445110	Rename type 'AuthorNotFoundException2'
+1539419539509	Copy compilation unit
+1539419685204	Rename local variable 'books'
+1539458584484	Delete element

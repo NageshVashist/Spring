@@ -1,0 +1,12 @@
+package com.springboot.microservices.currencyconversionservice.bean;
+
+import java.math.BigDecimal;
+
+public class CurrencyConversionBean {
+private Integer id;
+private String from;
+private String to;
+private BigDecimal converisonMultiple;
+private BigDecimal amount;
+
+}

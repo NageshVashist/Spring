@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/company-structure-spring-security-oauth2-authorities" element2="/org.meri.jpa.tutorial" element3="/practice-book-service" element4="/practice-limit-service" element5="/practice-spring-cloud-config-server" element6="/spring-aop" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1545065877484"/>
+</session>

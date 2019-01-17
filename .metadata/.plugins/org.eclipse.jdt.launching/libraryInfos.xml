@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\SoftwareAG_103\jvm\jvm" version="1.8.0_172">
+<bootpath>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\resources.jar"/>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\rt.jar"/>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\sunrsasign.jar"/>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\jsse.jar"/>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\jce.jar"/>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\charsets.jar"/>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\jfr.jar"/>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\SoftwareAG_103\jvm\jvm\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

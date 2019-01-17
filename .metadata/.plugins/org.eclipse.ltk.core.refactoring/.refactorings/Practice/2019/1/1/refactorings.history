@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;newFixedThreadPool&apos; from expression &apos;Executors.newFixedThreadPool(2)&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Variable name: &apos;newFixedThreadPool&apos;&#x0D;&#x0A;- Destination method: &apos;executors.MyExecutor.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;Executors.newFixedThreadPool(2)&apos;" description="Extract local variable &apos;newFixedThreadPool&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;executors{MyExecutor.java" name="newFixedThreadPool" replace="false" selection="182 31" stamp="1546399056181" version="1.0"/>
+</session>

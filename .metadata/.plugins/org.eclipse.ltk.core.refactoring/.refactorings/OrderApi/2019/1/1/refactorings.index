@@ -1,0 +1,9 @@
+1546418994860	Extract local variable 'order2'
+1546421826148	Rename field 'uuid'
+1546484610894	Rename type 'KafkaService'
+1546484785120	Move file
+1546485974829	Copy compilation unit
+1546486485227	Copy compilation unit
+1546494602581	Delete element
+1546494606547	Delete element
+1546585178390	Rename type 'JsonNodeDes'

@@ -1,0 +1,14 @@
+1537295858999	Move compilation units
+1537296229479	Copy compilation unit
+1537296243013	Rename type 'DemoApplication'
+1537296265069	Rename type 'DemoApplication'
+1537296266129	Rename type 'DemoApplicationTests'
+1537296271126	Move compilation unit
+1537297565427	Copy compilation units
+1537297579796	Rename type 'JDBCConnection'
+1537297590485	Rename type 'PersonDAO'
+1537297599060	Rename type 'ScopeApplication'
+1537297747584	Copy package
+1537297754364	Delete element
+1537297812640	Rename package 'scope'
+1537298145809	Rename package 'com.example.demo'

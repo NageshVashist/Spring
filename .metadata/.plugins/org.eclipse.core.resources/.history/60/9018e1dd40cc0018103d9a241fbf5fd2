@@ -1,0 +1,5 @@
+package com.springboot.microservices.currencyexchangeservice;
+
+public class CurrencyExchangeController {
+
+}

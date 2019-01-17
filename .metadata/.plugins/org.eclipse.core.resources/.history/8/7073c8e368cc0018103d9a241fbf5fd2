@@ -1,0 +1,7 @@
+package com.springboot.microservices.currencyexchangeservice.bean;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ExchangeValueRepository extends JpaRepository<ExchangeValue, Integer> {
+
+}

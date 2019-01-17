@@ -1,0 +1,20 @@
+package com.springboot.microservices.currencyconversionservice;
+
+import java.math.BigDecimal;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springboot.microservices.currencyconversionservice.bean.CurrencyConversionBean;
+
+@RestController
+public class CurrencyConversionController {
+
+	@GetMapping("/currency-converter/from/{from}/to/{to}/amount/{amount}")
+	public CurrencyConversionBean convertCurrency(@PathVariable String from, @PathVariable String to,
+			@PathVariable BigDecimal amount) {
+		return new CurrencyConversionBean(1, from, to, BigDecimal.ONE, amount, amount, 0);
+
+	}
+}

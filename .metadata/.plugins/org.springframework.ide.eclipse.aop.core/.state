@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="database"/>
+<aop-project name="InventoryApi"/>
+<aop-project name="TacoCloudApp"/>
+<aop-project name="OrderApi"/>
+</aop-reference-model>
